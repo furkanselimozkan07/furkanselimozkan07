@@ -44,7 +44,7 @@ Here is how I apply my skills in the field:
     * Combining technical discipline with social leadership and crisis management skills.
 
 * **🎓 Instructor & Mentor:**
-    * Teaching **Drone Piloting, 3D Printing, and Simulation** at private institutions (e.g., Özel Sakarya Schools).
+    * Teaching **Drone Piloting, 3D Printing, and Simulation** at private institutions (e.g.,  Sakarya Schools).
     * Mentored international students in **Romania, Bulgaria, Austria, and Kosovo** during the Summer of 2025 on AI & Technology.
 
 ---
@@ -66,7 +66,7 @@ I specialize in building end-to-end solutions, from data analysis to edge deploy
 ### 🎯 Current Goals
 
 * 🚀 **Immediate:** Winning the SUAS 2026 competition with a fully autonomous UAV.
-* 🌍 **Career:** Seeking an **Erasmus Internship** in **Germany or Austria** to contribute to cutting-edge Computer Vision and Robotics projects.
+* 🌍 **Career:** Seeking an **Erasmus Internship** to contribute to cutting-edge Computer Vision and Robotics projects.
 
 <br>
 <p align="center">
