@@ -3,10 +3,19 @@
 
 <p align="center">
   <a href="mailto:furkanselimozkan@ogr.eskisehir.edu.tr">
-    <img src="https://img.shields.io/badge/Contact-Email_Me-blue?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/furkanselimozkan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/furkanselimozkan07/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/furkanselimzkan">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://huggingface.co/Selim07">
+    <img src="https://img.shields.io/badge/Hugging%20Face-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  </a>
+  <a href="https://medium.com/@furkanselimozkan">
+    <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
 
@@ -14,7 +23,7 @@
 
 ### 🚀 About Me
 
-I am a **3rd-year Computer Engineering student** at **Eskişehir Technical University** with a passion for bridging the gap between **software** and the **physical world**. 
+I am a **3rd-year Computer Engineering student** at **Eskişehir Technical University** with a passion for bridging the gap between **software** and the **physical world**.
 
 * 🔭 **Currently working on:** Autonomous UAV software for **SUAS 2026** as the Team Lead & Chief Pilot of **[KAYIUAVTEAM]**.
 * 🌱 **Learning:** Advanced Computer Vision techniques & Edge AI deployment.
@@ -50,7 +59,6 @@ I am a **3rd-year Computer Engineering student** at **Eskişehir Technical Unive
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=furkanselimozkan07&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanselimozkan07&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
 
